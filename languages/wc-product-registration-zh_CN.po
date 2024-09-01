@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Registration 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-product-registration\n"
+"POT-Creation-Date: 2023-08-31T12:00:00+00:00\n"
+"PO-Revision-Date: 2023-08-31 12:00:00+0000\n"
+"Last-Translator: YOUR NAME <your@email.com>\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wc-product-registration\n"
+
+msgid "WooCommerce Product Registration"
+msgstr "WooCommerce产品注册"
+
+msgid "Allow customers to register their products using serial numbers."
+msgstr "允许客户使用序列号注册他们的产品。"
+
+msgid "Product Registrations"
+msgstr "产品注册"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Register Your Product"
+msgstr "注册您的产品"
+
+msgid "Serial Number:"
+msgstr "序列号："
+
+msgid "Product ID:"
+msgstr "产品ID："
+
+msgid "Register Product"
+msgstr "注册产品"
+
+msgid "Your Registered Products"
+msgstr "您已注册的产品"
+
+msgid "Product Name"
+msgstr "产品名称"
+
+msgid "Serial Number"
+msgstr "序列号"
+
+msgid "Registration Date"
+msgstr "注册日期"
+
+msgid "You have no registered products."
+msgstr "您没有已注册的产品。"
+
+msgid "Please log in to register your product."
+msgstr "请登录以注册您的产品。"
+
+msgid "Please log in to view your registered products."
+msgstr "请登录以查看您已注册的产品。"
+
+msgid "Import Serial Numbers"
+msgstr "导入序列号"
+
+msgid "Upload a XLSX or CSV file containing serial numbers and product IDs."
+msgstr "上传包含序列号和产品ID的XLSX或CSV文件。"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Registered Products"
+msgstr "已注册产品"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Product"
+msgstr "产品"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "No product registrations found."
+msgstr "未找到产品注册。"
+
+msgid "Your product %s has been registered"
+msgstr "您的产品 %s 已注册"
+
+msgid "Thank you for registering your product. Here are the details:\n\nProduct: %s\nSerial Number: %s"
+msgstr "感谢您注册产品。以下是详细信息：\n\n产品：%s\n序列号：%s"
+
+msgid "New product registration: %s"
+msgstr "新产品注册：%s"
+
+msgid "A new product has been registered:\n\nUser: %s\nProduct: %s\nSerial Number: %s"
+msgstr "新产品已注册：\n\n用户：%s\n产品：%s\n序列号：%s"
+
+msgid "You must be logged in to register a product."
+msgstr "您必须登录才能注册产品。"
+
+msgid "Invalid serial number."
+msgstr "无效的序列号。"
+
+msgid "This serial number has already been registered."
+msgstr "此序列号已被注册。"
+
+msgid "Product successfully registered."
+msgstr "产品注册成功。"
+
+msgid "Failed to register product."
+msgstr "产品注册失败。"
+
+msgid "Invalid file type. Please upload an XLSX or CSV file."
+msgstr "无效的文件类型。请上传XLSX或CSV文件。"

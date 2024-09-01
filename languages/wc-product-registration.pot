@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Registration 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-product-registration\n"
+"POT-Creation-Date: 2023-08-31T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wc-product-registration\n"
+
+msgid "WooCommerce Product Registration"
+msgstr ""
+
+msgid "Allow customers to register their products using serial numbers."
+msgstr ""
+
+msgid "Product Registrations"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Register Your Product"
+msgstr ""
+
+msgid "Serial Number:"
+msgstr ""
+
+msgid "Product ID:"
+msgstr ""
+
+msgid "Register Product"
+msgstr ""
+
+msgid "Your Registered Products"
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Serial Number"
+msgstr ""
+
+msgid "Registration Date"
+msgstr ""
+
+msgid "You have no registered products."
+msgstr ""
+
+msgid "Please log in to register your product."
+msgstr ""
+
+msgid "Please log in to view your registered products."
+msgstr ""
+
+msgid "Import Serial Numbers"
+msgstr ""
+
+msgid "Upload a XLSX or CSV file containing serial numbers and product IDs."
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Registered Products"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "No product registrations found."
+msgstr ""
+
+msgid "Your product %s has been registered"
+msgstr ""
+
+msgid "Thank you for registering your product. Here are the details:\n\nProduct: %s\nSerial Number: %s"
+msgstr ""
+
+msgid "New product registration: %s"
+msgstr ""
+
+msgid "A new product has been registered:\n\nUser: %s\nProduct: %s\nSerial Number: %s"
+msgstr ""
+
+msgid "You must be logged in to register a product."
+msgstr ""
+
+msgid "Invalid serial number."
+msgstr ""
+
+msgid "This serial number has already been registered."
+msgstr ""
+
+msgid "Product successfully registered."
+msgstr ""
+
+msgid "Failed to register product."
+msgstr ""
+
+msgid "Invalid file type. Please upload an XLSX or CSV file."
+msgstr ""

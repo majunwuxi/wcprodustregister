@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Registration 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-product-registration\n"
+"POT-Creation-Date: 2023-08-31T12:00:00+00:00\n"
+"PO-Revision-Date: 2023-08-31 12:00:00+0000\n"
+"Last-Translator: YOUR NAME <your@email.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wc-product-registration\n"
+
+msgid "WooCommerce Product Registration"
+msgstr "WooCommerce Product Registration"
+
+msgid "Allow customers to register their products using serial numbers."
+msgstr "Allow customers to register their products using serial numbers."
+
+msgid "Product Registrations"
+msgstr "Product Registrations"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Register Your Product"
+msgstr "Register Your Product"
+
+msgid "Serial Number:"
+msgstr "Serial Number:"
+
+msgid "Product ID:"
+msgstr "Product ID:"
+
+msgid "Register Product"
+msgstr "Register Product"
+
+msgid "Your Registered Products"
+msgstr "Your Registered Products"
+
+msgid "Product Name"
+msgstr "Product Name"
+
+msgid "Serial Number"
+msgstr "Serial Number"
+
+msgid "Registration Date"
+msgstr "Registration Date"
+
+msgid "You have no registered products."
+msgstr "You have no registered products."
+
+msgid "Please log in to register your product."
+msgstr "Please log in to register your product."
+
+msgid "Please log in to view your registered products."
+msgstr "Please log in to view your registered products."
+
+msgid "Import Serial Numbers"
+msgstr "Import Serial Numbers"
+
+msgid "Upload a XLSX or CSV file containing serial numbers and product IDs."
+msgstr "Upload a XLSX or CSV file containing serial numbers and product IDs."
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Registered Products"
+msgstr "Registered Products"
+
+msgid "User"
+msgstr "User"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "No product registrations found."
+msgstr "No product registrations found."
+
+msgi

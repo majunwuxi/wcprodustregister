@@ -1,0 +1,94 @@
+/* WooCommerce Product Registration Styles */
+
+.wc-product-registration-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.wc-product-registration-form h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.wc-product-registration-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.wc-product-registration-form input[type="text"],
+.wc-product-registration-form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.wc-product-registration-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.wc-product-registration-form button:hover {
+    background-color: #005177;
+}
+
+#registration-result {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+#registration-result.success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+#registration-result.error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+}
+
+.product-preview {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.product-preview img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-preview h3 {
+    margin-bottom: 10px;
+}
+
+.product-preview a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #0073aa;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.product-preview a:hover {
+    background-color: #005177;
+}
